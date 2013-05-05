@@ -1,0 +1,16 @@
+== README ==
+The GotoBLAS library project site:
+http://www.tacc.utexas.edu/tacc-projects/gotoblas2
+
+The GotoBLAS library is distributed under the BSD licence,
+for details go see: 00License.txt
+
+The author of GotoBLAS is Kazuyoshi Goto from TACC University 
+of Texas Austin, however the library is no longer developed...
+
+= Latest version =
+To our luck the project has a descendent SurviveGotoBlas2,
+which is currently maintained, by Institute of Statistical Mathematics
+in Japan. The latest version can be found here:
+
+http://prs.ism.ac.jp/~nakama/SurviveGotoBLAS2/SurviveGotoBLAS2_3.14_RC_20110722.tar.gz
